@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+}
+.header-bg {
+    background-color: #f8f9fa;
+    border-radius: 10px;
+}
+.banner-bg {
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+.cetagory {
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.cetagory-bg1 {
+    background-color: #ffa500;
+}
+.cetagory-bg2 {
+    background-color: #da70d6;
+}
+.cetagory-bg3 {
+    background-color: #0000ff;
+}
+.cetagory-img {
+    height: 100px;
+    width: 100px;
+}
+.card-one-btn-bg {
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    padding: 9px 25px;
+}
+.subscribe-bg {
+    height: 300px;
+    background-color: #fceae8;
+    border-radius: 20px;
+}
